@@ -1,4 +1,12 @@
 # Front End (React JS)
+
+## How to run the application?
+* Clone the project from github
+* Go to frontend folder / backend folder
+* Run npm install and 
+* Run npm run dev
+
+## Features developed
 * Specifying width,height for img tag will prevent shifting/jumping of the content on the screen
 * If you specify start rating greater than end rating also it will just swap respectively i.e., start becomes end and end becomes start
 * Debouncing
